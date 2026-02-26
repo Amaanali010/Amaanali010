@@ -11,7 +11,7 @@
   [![Instagram](https://img.shields.io/badge/Instagram-@code_master_mind8-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/code_master_mind8/)
   [![Facebook](https://img.shields.io/badge/Facebook-@AmaanAli-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100095124488222)
   [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Amaanali01-FFD21E?style=for-the-badge)](https://huggingface.co/Amaanali01)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-CodeMasterMinds-56D364?style=for-the-badge&logo=firefox&logoColor=white)](https://codemasterminds.agency/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-CodeMasterMinds-56D364?style=for-the-badge&logo=firefox&logoColor=white)](https://amaanali.rf.gd/)
   
   <img src="https://komarev.com/ghpvc/?username=Amaanali-01&color=56D364&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
@@ -25,7 +25,16 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
+"""
+╔══════════════════════════════════════════════════════════════╗
+║                    SYED AMAAN ALI                            ║
+║         Data Scientist | AI/ML Engineer | Developer          ║
+╚══════════════════════════════════════════════════════════════╝
+"""
+
 class DataScientist:
+    """Building intelligent solutions with data & AI"""
+    
     def __init__(self):
         self.name = "Syed Amaan Ali"
         self.role = "Data Scientist & AI/ML Engineer"
@@ -33,25 +42,36 @@ class DataScientist:
         self.email = "officialamaanali01@gmail.com"
         self.education = "BS Data Science (In Progress) @ Virtual University"
         self.interests = [
-            "Data Science",
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Web Development", 
-            "Digital Marketing"
+            "📊 Data Science",
+            "🤖 Artificial Intelligence",
+            "🧠 Machine Learning",
+            "🌐 Web Development", 
+            "📈 Digital Marketing"
         ]
-        self.freelance = "Available"
-    
+        self.freelance = "✅ Available"
+        self.experience_years = 4
+        self.projects_completed = 50+
+        
     def introduce(self):
-        print(f"Hello! I'm {self.name}")
-        print(f"📍 {self.location}")
-        print("💡 Building intelligent solutions with data & AI")
+        """Introduction method"""
+        return f"""
+        Hello! I'm {self.name}
+        📍 {self.location}
+        💼 Role: {self.role}
+        🎓 Education: {self.education}
+        💡 {len(self.interests)} Areas of Expertise
+        🤝 Freelance: {self.freelance}
+        """
 
+# Create instance
 me = DataScientist()
-me.introduce()
+print(me.introduce())
 
+
+<div align="center">
 
 timeline
-    title Education Journey
+    title My Education Timeline
     2019-2021 : Matriculation (Computer Science)
               : Board of Secondary Education Karachi
     2021-2025 : Intermediate (Computer Science)
@@ -59,25 +79,6 @@ timeline
     2025-Present : BS Data Science
                  : Virtual University of Pakistan
 
+</div>
 
 
-const currentFocus = {
-  learning: [
-    "Advanced Machine Learning Algorithms",
-    "Deep Learning with PyTorch",
-    "Cloud Computing (AWS/Azure)",
-    "Big Data Analytics"
-  ],
-  building: [
-    "AI-powered Data Analysis Tool",
-    "Portfolio Website with Terminal Theme",
-    "RAG Chatbot System",
-    "SEO Optimization Platform"
-  ],
-  goals: [
-    "Contribute to Open Source",
-    "Complete Data Science Degree",
-    "Build 10+ AI Projects",
-    "Start Tech Blog"
-  ]
-};
