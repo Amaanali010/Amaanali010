@@ -6,11 +6,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=56D364&center=true&vCenter=true&width=600&lines=Data+Scientist;AI+Engineer;Machine+Learning+Specialist;Full-Stack+Developer;Digital+Marketing+Expert;Problem+Solver" />
 
-[![Twitter](https://img.shields.io/badge/Twitter-@codemastermind0-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/codemastermind0)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amaan%20Ali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaan-ali-21784824b)
-[![Instagram](https://img.shields.io/badge/Instagram-@code__master__mind8-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/code_master_mind8/)
+[![Twitter](https://x.com/Amaanali010)
+[![LinkedIn](https://www.linkedin.com/in/amaanali01/)
+[![GitHub](https://github.com/Amaanali010)
 [![Facebook](https://img.shields.io/badge/Facebook-Amaan%20Ali-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100095124488222)
-[![Hugging Face](https://img.shields.io/badge/HuggingFace-Amaanali01-FFD21E?style=for-the-badge)](https://huggingface.co/Amaanali01)
+[![Hugging Face](https://huggingface.co/Amaanali01)
 [![Portfolio](https://img.shields.io/badge/Portfolio-CodeMasterMinds-56D364?style=for-the-badge&logo=firefox&logoColor=white)](https://amaanali.rf.gd/)
 
 <img src="https://komarev.com/ghpvc/?username=Amaanali-01&color=56D364&style=for-the-badge&label=PROFILE+VIEWS"/>
